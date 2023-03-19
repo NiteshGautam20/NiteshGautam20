@@ -6,6 +6,7 @@ A self-taught Data Analyst Enthusiast from India.
 NiteshGautam20
 
 I'm Nitesh Gautam and welcome to my GitHub profile!
+
 🔭 I’m currently working on Programmer Anaylst Data Analytics, Python, MS Excel & Statistics
 
 🌱 I’m currently learning Advance SQL & Python libraries
@@ -16,7 +17,7 @@ I'm Nitesh Gautam and welcome to my GitHub profile!
 
 🤝 Connect me on linkedIn
 
-Connect with me:
+### Connect with me:
 https://www.linkedin.com/in/nitesh-gautam-2a7a87209/
  
  
