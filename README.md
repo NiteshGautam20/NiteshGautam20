@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+ 
 Hey! 👋 I'm Nitesh Gautam
 A self-taught Data Analyst Enthusiast from India.
 NiteshGautam20
@@ -21,4 +21,3 @@ https://www.linkedin.com/in/nitesh-gautam-2a7a87209/
  
  
  
--->
