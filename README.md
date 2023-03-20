@@ -25,4 +25,4 @@
   </a> </p>
  
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=niteshgautam20&show_icons=true&locale=en" alt="niteshgautam20" /></p>
+ 
